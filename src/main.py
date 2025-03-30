@@ -34,7 +34,7 @@ def main():
     # Create data directory if it doesn't exist
     os.makedirs(data_dir, exist_ok=True)
     
-    nav_graph_path = os.path.join(data_dir, 'nav_graph_1.json')
+    nav_graph_path = os.path.join(data_dir, 'nav_graph_3.json')
     
     # Load navigation graph
     nav_graph = load_navigation_graph(nav_graph_path)
