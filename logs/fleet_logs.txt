@@ -1,0 +1,286 @@
+2025-03-29 15:38:48 [INFO] Robot R0: Created - at vertex L0
+2025-03-29 15:38:48 [INFO] Robot R1: Created - at vertex L4
+2025-03-29 15:38:48 [INFO] Robot R2: Created - at vertex L8
+2025-03-29 15:38:59 [INFO] Robot R3: Created - at vertex L5
+2025-03-29 15:42:50 [INFO] [MainThread] Fleet Management System started
+2025-03-29 15:42:50 [INFO] [MainThread] Logging system initialized
+2025-03-29 15:42:50 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-29 15:42:50 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-29 15:42:50 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-29 15:42:59 [INFO] [MainThread] Robot R3: Created - at vertex L5
+2025-03-29 15:43:03 [INFO] [MainThread] Robot R3: New path [L5 -> L11 -> L6 -> L7 -> L12 -> L8 -> L9] (New task assigned)
+2025-03-29 15:43:10 [INFO] [MainThread] Robot R3: Task completed - Path: L8 -> L9
+2025-03-29 15:43:12 [INFO] [MainThread] Robot R3: New path [L9 -> L8 -> L12 -> L7 -> L6 -> L11 -> L5] (New task assigned)
+2025-03-29 15:43:16 [INFO] [MainThread] Robot R3: New path [L7 -> L12 -> L8 -> L9 -> L2 -> L13 -> L3] (Task reassigned)
+2025-03-29 15:43:24 [INFO] [MainThread] Robot R3: Task completed - Path: L13 -> L3
+2025-03-29 15:58:59 [INFO] [MainThread] Fleet Management System started
+2025-03-29 15:58:59 [INFO] [MainThread] Logging system initialized
+2025-03-29 15:58:59 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-29 15:58:59 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-29 15:58:59 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-29 15:59:10 [INFO] [MainThread] Robot R0: New path [L0 -> L4 -> L5 -> L11 -> L6] (New task assigned)
+2025-03-29 15:59:15 [INFO] [MainThread] Robot R0: Task completed - Path: L11 -> L6
+2025-03-29 15:59:17 [INFO] [MainThread] Robot R0: New path [L6 -> L7 -> L12 -> L8 -> L9 -> L2 -> L13 -> L3] (New task assigned)
+2025-03-29 15:59:25 [INFO] [MainThread] Robot R0: Task completed - Path: L13 -> L3
+2025-03-29 16:00:28 [INFO] [MainThread] Fleet Management System started
+2025-03-29 16:00:28 [INFO] [MainThread] Logging system initialized
+2025-03-29 16:00:28 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-29 16:00:28 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-29 16:00:28 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-29 16:00:42 [INFO] [MainThread] Robot R0: New path [L0 -> L1 -> L8 -> L9 -> L10] (New task assigned)
+2025-03-29 16:00:47 [INFO] [MainThread] Robot R0: Task completed - Path: L9 -> L10
+2025-03-29 16:00:55 [INFO] [MainThread] Robot R1: New path [L4 -> L5 -> L6] (New task assigned)
+2025-03-29 16:00:58 [INFO] [MainThread] Robot R1: Task completed - Path: L5 -> L6
+2025-03-29 16:00:59 [INFO] [MainThread] Robot R1: New path [L6 -> L7 -> L1 -> L2] (New task assigned)
+2025-03-29 16:01:01 [INFO] [MainThread] Robot R1: Traffic event - Waiting at intersection L1
+2025-03-29 16:01:14 [INFO] [MainThread] Robot R3: Created - at vertex L4
+2025-03-29 16:01:17 [INFO] [MainThread] Robot R3: New path [L4 -> L3 -> L2 -> L1] (New task assigned)
+2025-03-29 16:01:17 [INFO] [MainThread] Robot R3: Traffic event - Blocked at path L4-L4
+2025-03-29 16:03:17 [INFO] [MainThread] Fleet Management System started
+2025-03-29 16:03:17 [INFO] [MainThread] Logging system initialized
+2025-03-29 16:03:17 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-29 16:03:17 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-29 16:03:17 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-29 16:03:28 [INFO] [MainThread] Robot R3: Created - at vertex L6
+2025-03-29 16:03:32 [INFO] [MainThread] Robot R4: Created - at vertex L1
+2025-03-29 16:03:37 [INFO] [MainThread] Robot R4: New path [L1 -> L7 -> L6 -> L5] (New task assigned)
+2025-03-29 16:03:40 [INFO] [MainThread] Robot R1: New path [L4 -> L3] (New task assigned)
+2025-03-29 16:03:41 [INFO] [MainThread] Robot R4: Task completed - Path: L6 -> L5
+2025-03-29 16:03:42 [INFO] [MainThread] Robot R1: Task completed - Path: L4 -> L3
+2025-03-29 16:03:45 [INFO] [MainThread] Robot R3: New path [L6 -> L7 -> L1 -> L0 -> L13] (New task assigned)
+2025-03-29 16:03:45 [INFO] [MainThread] Robot R3: Traffic event - Blocked at path L6-L6
+2025-03-29 16:03:48 [INFO] [MainThread] Robot R5: Created - at vertex L13
+2025-03-29 16:03:51 [INFO] [MainThread] Robot R5: New path [L13 -> L12 -> L11] (New task assigned)
+2025-03-29 16:03:53 [INFO] [MainThread] Robot R4: New path [L5 -> L6 -> L7 -> L1 -> L8 -> L9 -> L10] (New task assigned)
+2025-03-29 16:03:54 [INFO] [MainThread] Robot R5: Task completed - Path: L12 -> L11
+2025-03-29 16:04:00 [INFO] [MainThread] Robot R4: Task completed - Path: L9 -> L10
+2025-03-30 10:14:19 [INFO] [MainThread] Fleet Management System started
+2025-03-30 10:14:19 [INFO] [MainThread] Logging system initialized
+2025-03-30 10:14:19 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 10:14:19 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-30 10:14:19 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-30 10:14:52 [INFO] [MainThread] Robot R0: New path [L0 -> L1 -> L2 -> L3] (New task assigned)
+2025-03-30 10:14:56 [INFO] [MainThread] Robot R0: Task completed - Path: L2 -> L3
+2025-03-30 10:15:13 [INFO] [MainThread] Robot R0: Removed - from vertex L3
+2025-03-30 10:15:16 [INFO] [MainThread] Robot R3: Created - at vertex L3
+2025-03-30 10:15:17 [INFO] [MainThread] Robot R4: Created - at vertex L5
+2025-03-30 10:15:19 [INFO] [MainThread] Robot R5: Created - at vertex L6
+2025-03-30 10:15:22 [INFO] [MainThread] Robot R1: New path [L4 -> L3 -> L2] (New task assigned)
+2025-03-30 10:15:25 [INFO] [MainThread] Robot R1: Task completed - Path: L3 -> L2
+2025-03-30 10:15:30 [INFO] [MainThread] Robot R6: Created - at vertex L4
+2025-03-30 10:15:33 [INFO] [MainThread] Robot R4: New path [L5 -> L6 -> L7 -> L1 -> L0 -> L13] (New task assigned)
+2025-03-30 10:15:36 [INFO] [MainThread] Robot R4: Traffic event - Waiting at intersection L1
+2025-03-30 17:30:31 [INFO] [MainThread] Fleet Management System started
+2025-03-30 17:30:31 [INFO] [MainThread] Logging system initialized
+2025-03-30 17:30:31 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 17:30:31 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-30 17:30:31 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-30 17:30:34 [INFO] [MainThread] Robot R0: Removed - from vertex L0
+2025-03-30 17:30:38 [INFO] [MainThread] Robot R3: Created - at vertex L0
+2025-03-30 17:30:43 [INFO] [MainThread] Robot R3: New path [L0 -> L1 -> L8 -> L9 -> L10] (New task assigned)
+2025-03-30 17:30:48 [INFO] [MainThread] Robot R3: Task completed - Path: L9 -> L10
+2025-03-30 17:38:00 [INFO] [MainThread] Fleet Management System started
+2025-03-30 17:38:00 [INFO] [MainThread] Logging system initialized
+2025-03-30 17:38:00 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 17:38:00 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-30 17:38:00 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-30 17:38:11 [INFO] [MainThread] Robot R0: New path [L0 -> L13] (New task assigned)
+2025-03-30 17:38:13 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L13
+2025-03-30 17:38:13 [INFO] [MainThread] Robot R2: New path [L8 -> L9 -> L10] (New task assigned)
+2025-03-30 17:38:16 [INFO] [MainThread] Robot R2: Task completed - Path: L9 -> L10
+2025-03-30 17:38:20 [INFO] [MainThread] Robot R3: Created - at vertex L11
+2025-03-30 17:38:22 [INFO] [MainThread] Robot R3: New path [L11 -> L10 -> L9 -> L8 -> L1] (New task assigned)
+2025-03-30 17:38:27 [INFO] [MainThread] Robot R3: Task completed - Path: L8 -> L1
+2025-03-30 17:38:33 [INFO] [MainThread] Robot R4: Created - at vertex L6
+2025-03-30 17:38:35 [INFO] [MainThread] Robot R5: Created - at vertex L5
+2025-03-30 17:38:40 [INFO] [MainThread] Robot R1: New path [L4 -> L3 -> L2 -> L1 -> L0] (New task assigned)
+2025-03-30 17:38:46 [INFO] [MainThread] Robot R1: Task completed - Path: L1 -> L0
+2025-03-30 17:38:54 [INFO] [MainThread] Robot R1: New path [L0 -> L1 -> L2] (New task assigned)
+2025-03-30 17:38:54 [INFO] [MainThread] Robot R1: Traffic event - Blocked at path L0-L0
+2025-03-30 17:39:43 [INFO] [MainThread] Robot R4: New path [L6 -> L5 -> L4] (New task assigned)
+2025-03-30 17:39:46 [INFO] [MainThread] Robot R4: Task completed - Path: L5 -> L4
+2025-03-30 17:39:49 [INFO] [MainThread] Robot R3: Removed - from vertex L1
+2025-03-30 17:39:59 [INFO] [MainThread] Robot R4: New path [L4 -> L3 -> L2 -> L1 -> L8 -> L9] (New task assigned)
+2025-03-30 17:39:59 [INFO] [MainThread] Robot R4: Traffic event - Blocked at path L4-L4
+2025-03-30 17:40:03 [INFO] [MainThread] Robot R4: New path [L4 -> L3 -> L2 -> L1 -> L8 -> L9] (Task reassigned)
+2025-03-30 17:40:06 [INFO] [MainThread] Robot R4: Traffic event - Blocked at path L2-L1
+2025-03-30 18:08:06 [INFO] [MainThread] Fleet Management System started
+2025-03-30 18:08:06 [INFO] [MainThread] Logging system initialized
+2025-03-30 18:08:06 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 18:08:06 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-30 18:08:06 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-30 18:08:39 [INFO] [MainThread] Robot R0: New path [L0 -> L1] (New task assigned)
+2025-03-30 18:08:41 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L1
+2025-03-30 18:08:43 [INFO] [MainThread] Robot R0: New path [L1 -> L7 -> L6] (New task assigned)
+2025-03-30 18:08:46 [INFO] [MainThread] Robot R0: Task completed - Path: L7 -> L6
+2025-03-30 18:35:28 [INFO] [MainThread] Fleet Management System started
+2025-03-30 18:35:28 [INFO] [MainThread] Logging system initialized
+2025-03-30 18:35:28 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 18:35:28 [INFO] [MainThread] Robot R1: Created - at vertex L4
+2025-03-30 18:35:28 [INFO] [MainThread] Robot R2: Created - at vertex L8
+2025-03-30 20:34:58 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:34:58 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:42:13 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:42:13 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:45:07 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:45:07 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:45:43 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:45:43 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:46:45 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:46:45 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:49:00 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:49:00 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:49:12 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 20:49:15 [INFO] [MainThread] Robot R1: Created - at vertex L1
+2025-03-30 20:49:58 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:49:58 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:50:02 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 20:50:14 [INFO] [MainThread] Robot R1: Created - at vertex L1
+2025-03-30 20:52:51 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:52:51 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:52:54 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 20:53:34 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:53:34 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:53:37 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 20:53:43 [INFO] [MainThread] Robot R0: New path [L0 -> L1] (New task assigned)
+2025-03-30 20:53:49 [INFO] [MainThread] Robot R1: Created - at vertex L1
+2025-03-30 20:55:52 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:55:52 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:55:55 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 20:56:00 [INFO] [MainThread] Robot R0: New path [L0 -> L1] (New task assigned)
+2025-03-30 20:56:03 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L1
+2025-03-30 20:56:09 [INFO] [MainThread] Robot R0: New path [L1 -> L2 -> L6] (New task assigned)
+2025-03-30 20:56:13 [INFO] [MainThread] Robot R0: Task completed - Path: L2 -> L6
+2025-03-30 20:56:21 [INFO] [MainThread] Robot R0: Removed - from vertex L6
+2025-03-30 20:56:23 [INFO] [MainThread] Robot R1: Created - at vertex L2
+2025-03-30 20:56:31 [INFO] [MainThread] Robot R1: Removed - from vertex L2
+2025-03-30 20:56:37 [INFO] [MainThread] Robot R2: Created - at vertex L1
+2025-03-30 20:56:40 [INFO] [MainThread] Robot R3: Created - at vertex L6
+2025-03-30 20:56:42 [INFO] [MainThread] Robot R4: Created - at vertex L6
+2025-03-30 20:56:43 [INFO] [MainThread] Robot R5: Created - at vertex L3
+2025-03-30 20:56:50 [INFO] [MainThread] Robot R3: New path [L6 -> L5 -> L4] (New task assigned)
+2025-03-30 20:56:54 [INFO] [MainThread] Robot R3: Task completed - Path: L5 -> L4
+2025-03-30 20:57:28 [INFO] [MainThread] Fleet Management System started
+2025-03-30 20:57:28 [INFO] [MainThread] Logging system initialized
+2025-03-30 20:57:30 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 20:57:31 [INFO] [MainThread] Robot R1: Created - at vertex L1
+2025-03-30 20:57:37 [INFO] [MainThread] Robot R0: New path [L0 -> L1 -> L2] (New task assigned)
+2025-03-30 20:57:39 [INFO] [MainThread] Robot R1: New path [L1 -> L2 -> L6] (New task assigned)
+2025-03-30 20:57:39 [INFO] [MainThread] Robot R1: Traffic event - Blocked at path L1-L1
+2025-03-30 20:57:40 [INFO] [MainThread] Robot R0: Task completed - Path: L1 -> L2
+2025-03-30 20:57:49 [INFO] [MainThread] Robot R1: New path [L1 -> L0] (Task reassigned)
+2025-03-30 20:57:51 [INFO] [MainThread] Robot R1: Task completed - Path: L1 -> L0
+2025-03-30 21:00:01 [INFO] [MainThread] Fleet Management System started
+2025-03-30 21:00:01 [INFO] [MainThread] Logging system initialized
+2025-03-30 21:00:05 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 21:00:08 [INFO] [MainThread] Robot R1: Created - at vertex L0
+2025-03-30 21:00:09 [INFO] [MainThread] Robot R2: Created - at vertex L2
+2025-03-30 21:00:14 [INFO] [MainThread] Robot R0: New path [L0] (New task assigned)
+2025-03-30 21:00:15 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L0
+2025-03-30 21:00:17 [INFO] [MainThread] Robot R0: New path [L0] (New task assigned)
+2025-03-30 21:00:18 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L0
+2025-03-30 21:00:19 [INFO] [MainThread] Robot R0: New path [L0 -> L1] (New task assigned)
+2025-03-30 21:00:21 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L1
+2025-03-30 21:00:32 [INFO] [MainThread] Robot R0: New path [L1 -> L2 -> L6] (New task assigned)
+2025-03-30 21:00:36 [INFO] [MainThread] Robot R0: Task completed - Path: L2 -> L6
+2025-03-30 21:00:46 [INFO] [MainThread] Robot R2: New path [L2 -> L3] (New task assigned)
+2025-03-30 21:00:46 [INFO] [MainThread] Robot R2: Traffic event - Blocked at path L2-L2
+2025-03-30 21:02:35 [INFO] [MainThread] Fleet Management System started
+2025-03-30 21:02:35 [INFO] [MainThread] Logging system initialized
+2025-03-30 21:02:37 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 21:02:41 [INFO] [MainThread] Robot R0: New path [L0 -> L1 -> L2] (New task assigned)
+2025-03-30 21:02:43 [INFO] [MainThread] Robot R0: Task cancelled - at vertex L0
+2025-03-30 21:02:59 [INFO] [MainThread] Robot R0: New path [L0 -> L1 -> L2 -> L3] (New task assigned)
+2025-03-30 21:03:04 [INFO] [MainThread] Robot R0: Task completed - Path: L2 -> L3
+2025-03-30 21:03:14 [INFO] [MainThread] Robot R1: Created - at vertex L1
+2025-03-30 21:03:15 [INFO] [MainThread] Robot R2: Created - at vertex L5
+2025-03-30 21:03:18 [INFO] [MainThread] Robot R2: New path [L5 -> L6] (New task assigned)
+2025-03-30 21:03:21 [INFO] [MainThread] Robot R2: Task completed - Path: L5 -> L6
+2025-03-30 21:03:21 [INFO] [MainThread] Robot R1: New path [L1 -> L2 -> L3 -> L4] (New task assigned)
+2025-03-30 21:03:21 [INFO] [MainThread] Robot R1: Traffic event - Blocked at path L1-L1
+2025-03-30 21:07:36 [INFO] [MainThread] Fleet Management System started
+2025-03-30 21:07:36 [INFO] [MainThread] Logging system initialized
+2025-03-30 21:07:38 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 21:07:46 [INFO] [MainThread] Robot R1: Created - at vertex L1
+2025-03-30 21:07:48 [INFO] [MainThread] Robot R2: Created - at vertex L0
+2025-03-30 21:07:51 [INFO] [MainThread] Robot R3: Created - at vertex L3
+2025-03-30 21:08:03 [INFO] [MainThread] Robot R3: Removed - from vertex L3
+2025-03-30 21:08:15 [INFO] [MainThread] Robot R0: Removed - from vertex L0
+2025-03-30 21:08:18 [INFO] [MainThread] Robot R1: Removed - from vertex L1
+2025-03-30 21:08:27 [INFO] [MainThread] Robot R2: Removed - from vertex L0
+2025-03-30 21:08:31 [ERROR] [MainThread] Failed to assign task: Robot R2 not found
+NoneType: None
+2025-03-30 21:08:32 [ERROR] [MainThread] Failed to assign task: Robot R2 not found
+NoneType: None
+2025-03-30 21:08:35 [INFO] [MainThread] Robot R4: Created - at vertex L0
+2025-03-30 21:08:38 [INFO] [MainThread] Robot R5: Created - at vertex L1
+2025-03-30 21:08:43 [INFO] [MainThread] Robot R4: New path [L0 -> L1 -> L2] (New task assigned)
+2025-03-30 21:08:45 [INFO] [MainThread] Robot R5: New path [L1 -> L2 -> L6 -> L5] (New task assigned)
+2025-03-30 21:08:45 [INFO] [MainThread] Robot R5: Traffic event - Blocked at path L1-L1
+2025-03-30 21:08:47 [INFO] [MainThread] Robot R4: Task completed - Path: L1 -> L2
+2025-03-30 21:08:55 [INFO] [MainThread] Robot R5: New path [L1 -> L2 -> L3] (Task reassigned)
+2025-03-30 21:08:59 [INFO] [MainThread] Robot R5: Task completed - Path: L2 -> L3
+2025-03-30 21:09:05 [INFO] [MainThread] Robot R5: New path [L3 -> L4 -> L5] (New task assigned)
+2025-03-30 21:09:09 [INFO] [MainThread] Robot R5: Task completed - Path: L4 -> L5
+2025-03-30 21:11:29 [INFO] [MainThread] Fleet Management System started
+2025-03-30 21:11:29 [INFO] [MainThread] Logging system initialized
+2025-03-30 21:11:31 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 21:11:36 [INFO] [MainThread] Robot R0: New path [L0 -> L1 -> L2] (New task assigned)
+2025-03-30 21:11:39 [INFO] [MainThread] Robot R0: Task completed - Path: L1 -> L2
+2025-03-30 21:11:43 [INFO] [MainThread] Robot R0: New path [L2 -> L1] (New task assigned)
+2025-03-30 21:11:46 [INFO] [MainThread] Robot R0: Task completed - Path: L2 -> L1
+2025-03-30 21:11:52 [INFO] [MainThread] Robot R1: Created - at vertex L0
+2025-03-30 21:11:56 [INFO] [MainThread] Robot R1: New path [L0 -> L1 -> L2 -> L3] (New task assigned)
+2025-03-30 21:11:56 [INFO] [MainThread] Robot R1: Traffic event - Blocked at path L0-L0
+2025-03-30 21:12:00 [INFO] [MainThread] Robot R0: New path [L1 -> L2 -> L6 -> L5] (New task assigned)
+2025-03-30 21:12:05 [INFO] [MainThread] Robot R0: Task completed - Path: L6 -> L5
+2025-03-30 21:12:15 [INFO] [MainThread] Robot R1: New path [L0 -> L1 -> L2 -> L3 -> L4] (Task reassigned)
+2025-03-30 21:12:18 [INFO] [MainThread] Robot R1: Traffic event - Blocked at path L1-L2
+2025-03-30 21:12:27 [INFO] [MainThread] Robot R1: New path [L1 -> L0] (Task reassigned)
+2025-03-30 21:12:27 [INFO] [MainThread] Robot R1: Traffic event - Blocked at path L1-L1
+2025-03-30 21:12:38 [INFO] [MainThread] Robot R1: New path [L1] (Task reassigned)
+2025-03-30 21:12:38 [INFO] [MainThread] Robot R1: New path [L1 -> L0] (Task reassigned)
+2025-03-30 21:12:41 [INFO] [MainThread] Robot R1: Task completed - Path: L1 -> L0
+2025-03-30 21:24:34 [INFO] [MainThread] Fleet Management System started
+2025-03-30 21:24:34 [INFO] [MainThread] Logging system initialized
+2025-03-30 21:24:38 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 21:24:53 [INFO] [MainThread] Robot R1: Created - at vertex L0
+2025-03-30 21:25:04 [INFO] [MainThread] Robot R2: Created - at vertex L1
+2025-03-30 21:25:10 [INFO] [MainThread] Robot R2: Removed - from vertex L1
+2025-03-30 21:25:12 [INFO] [MainThread] Robot R0: Removed - from vertex L0
+2025-03-30 21:25:14 [INFO] [MainThread] Robot R1: Removed - from vertex L0
+2025-03-30 21:25:18 [INFO] [MainThread] Robot R3: Created - at vertex L0
+2025-03-30 21:27:34 [INFO] [MainThread] Fleet Management System started
+2025-03-30 21:27:34 [INFO] [MainThread] Logging system initialized
+2025-03-30 21:27:39 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 21:27:46 [INFO] [MainThread] Robot R0: New path [L0] (New task assigned)
+2025-03-30 21:27:47 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L0
+2025-03-30 21:27:50 [INFO] [MainThread] Robot R0: New path [L0 -> L1] (New task assigned)
+2025-03-30 21:27:53 [INFO] [MainThread] Robot R0: Task completed - Path: L0 -> L1
+2025-03-30 21:28:00 [INFO] [MainThread] Robot R0: New path [L1] (New task assigned)
+2025-03-30 21:28:01 [INFO] [MainThread] Robot R0: Task completed - Path: L1 -> L1
+2025-03-30 21:28:04 [INFO] [MainThread] Robot R1: Created - at vertex L2
+2025-03-30 21:28:07 [INFO] [MainThread] Robot R2: Created - at vertex L1
+2025-03-30 21:28:08 [INFO] [MainThread] Robot R3: Created - at vertex L1
+2025-03-30 21:28:10 [INFO] [MainThread] Robot R4: Created - at vertex L0
+2025-03-30 21:28:15 [INFO] [MainThread] Robot R4: New path [L0] (New task assigned)
+2025-03-30 21:28:15 [INFO] [MainThread] Robot R4: Traffic event - Blocked at path L0-L0
+2025-03-30 21:28:18 [INFO] [MainThread] Robot R4: New path [L0] (Task reassigned)
+2025-03-30 21:28:19 [INFO] [MainThread] Robot R4: Task completed - Path: L0 -> L0
+2025-03-30 21:28:19 [INFO] [MainThread] Robot R4: Removed - from vertex L0
+2025-03-30 21:28:23 [INFO] [MainThread] Robot R0: Removed - from vertex L1
+2025-03-30 21:28:26 [INFO] [MainThread] Robot R2: Removed - from vertex L1
+2025-03-30 21:28:30 [WARNING] [MainThread] Robot R3 has no active task to cancel
+2025-03-30 21:28:33 [INFO] [MainThread] Robot R3: New path [L1] (New task assigned)
+2025-03-30 21:28:34 [INFO] [MainThread] Robot R3: Task completed - Path: L1 -> L1
+2025-03-30 21:28:34 [INFO] [MainThread] Robot R3: New path [L1 -> L2 -> L3 -> L4] (New task assigned)
+2025-03-30 21:28:39 [INFO] [MainThread] Robot R3: Task completed - Path: L3 -> L4
+2025-03-30 21:28:42 [INFO] [MainThread] Robot R3: New path [L4] (New task assigned)
+2025-03-30 21:28:43 [INFO] [MainThread] Robot R3: Task completed - Path: L4 -> L4
+2025-03-30 21:28:43 [INFO] [MainThread] Robot R3: New path [L4 -> L3 -> L2 -> L1 -> L0] (New task assigned)
+2025-03-30 21:28:44 [INFO] [MainThread] Robot R3: Task cancelled - at vertex L4
+2025-03-30 21:30:52 [INFO] [MainThread] Fleet Management System started
+2025-03-30 21:30:52 [INFO] [MainThread] Logging system initialized
+2025-03-30 21:31:02 [INFO] [MainThread] Robot R0: Created - at vertex L0
+2025-03-30 22:01:35 [INFO] [MainThread] Fleet Management System started
+2025-03-30 22:01:35 [INFO] [MainThread] Logging system initialized
