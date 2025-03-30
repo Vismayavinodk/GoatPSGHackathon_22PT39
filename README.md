@@ -22,7 +22,7 @@ Core functionalities:
 
 1. Python environment setup:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Vismayavinodk/GoatPSGHackathon_22PT39
 cd fleet-management-system
 pip install -r requirements.txt
 ```
